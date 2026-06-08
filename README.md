@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 
 # naka09-sys
 
-品質管理・業務改善担当
+**品質管理・業務改善担当**  
+現場課題の発見から設計・開発・運用まで一貫して担当。  
+Google Apps Script を中心に、日常業務の改善ツールを開発しています。
+
+---
  
 ## スキル
 
@@ -28,6 +32,8 @@ Here are some ideas to get you started:
 - HTML
 - JavaScript
 
+----
+
 ## 業務改善実績
 
 - QA支援ツール
@@ -35,6 +41,8 @@ Here are some ideas to get you started:
 - 受領異常確認ツール
 - 危険庫判定ツール
 - PO記録システム
+
+---
 
 ## 資格
 
