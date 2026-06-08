@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# naka09-sys
+
+品質管理・業務改善担当
+ 
+## スキル
+
+- Google Apps Script
+- Google Spreadsheet
+- VBA解析
+- Java
+- C#
+- SQL
+- HTML
+- JavaScript
+
+## 業務改善実績
+
+- QA支援ツール
+- 締め作業自動化
+- 受領異常確認ツール
+- 危険庫判定ツール
+- PO記録システム
+
+## 資格
+
+- 基本情報技術者試験 学習中
