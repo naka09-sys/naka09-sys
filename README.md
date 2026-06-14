@@ -29,7 +29,6 @@ Google Apps Script（GAS）とGoogle Spreadsheetを活用し、
 
 - Google Apps Script (GAS)
 - Google Spreadsheet
-- VBA解析
 
 ### 学習・ポートフォリオ
 
@@ -39,6 +38,7 @@ Google Apps Script（GAS）とGoogle Spreadsheetを活用し、
 - Java
 - C#
 - Git / GitHub
+- VBAの読解経験あり
 ---
 
 ## Portfolio
